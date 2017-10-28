@@ -1,3 +1,6 @@
+//Based on www.buildyourownlisp.com
+//Released under the GPL V2.0
+
 #include "mpc.h"
 
 #ifdef _WIN32
